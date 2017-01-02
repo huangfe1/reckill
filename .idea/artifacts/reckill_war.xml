@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="reckill:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="reckill.war">
+      <element id="artifact" artifact-name="reckill:war exploded" />
+    </root>
+  </artifact>
+</component>
